@@ -1,4 +1,5 @@
 import React from "react";
+import withRouter from "../menu-item/menu-item.component";
 
 import CollectionItem from "../collection-item/collection-item.component";
 
